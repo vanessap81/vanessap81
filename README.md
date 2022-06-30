@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanessap81
 - 👀 I’m front-end developer
-- 🌱 I’m currently learning __ In Rocketseat   
+- 🌱 I’m currently learning ReactJS 
 - 📫 Reach me: vanessaponte@gmail.com 
 
 <!---
