@@ -1,7 +1,7 @@
 <h2> 👋 Hi! </h2> 
 
-- 👀 I’m front-end developer
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT JS 
+- 👀 I’m linguist and front-end developer from Brazil.
+- 🌱 I’m currently learning NODE, REACT JS and FLUTTER.  
 - 📫 How to reach me: vanessaponte@gmail.com 
 
 <!---
