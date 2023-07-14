@@ -1,7 +1,8 @@
 <h2> 👋 Hi! </h2> 
 
 - 👀 I’m linguist and front-end developer from Brazil.
-- 🌱 I’m currently learning NODE, REACT JS and FLUTTER.  
+- ✏️ Laboratoria.la student. 
+- 🌱 I’m currently learning NODE and REACT JS.  
 - 📫 How to reach me: vanessaponte@gmail.com 
 
 <!---
