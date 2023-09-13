@@ -6,7 +6,7 @@
 - 📫 How to reach me: vanessaponte@gmail.com 
 
 <h2> GitHub Stats </h2>
-(https://github-readme-stats.vercel.app/api?username=vanessap81&show_icons=true&theme=radical)
+(https://github-stats.vercel.app/api?username=vanessap81&show_icons=true&theme=radical)
 
 
 <!---
