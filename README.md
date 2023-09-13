@@ -7,15 +7,9 @@
 
 <!---
 <h2> GitHub Stats </h2>
-
 ![Vanessa's GitHub stats](https://github-vanessap81-stats.vercel.app/api?username=vanessap81&show_icons=true&theme=tokyonight)
 
-
-
-
 (https://github-stats.vercel.app/api?username=vanessap81&show_icons=true&theme=radical)
-
-
 
 vanessap81/vanessap81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
