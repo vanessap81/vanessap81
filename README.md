@@ -5,13 +5,14 @@
 - 🌱 I’m currently learning NODE and REACT JS.  
 - 📫 How to reach me: vanessaponte@gmail.com 
 
+<!---
 <h2> GitHub Stats </h2>
 
 ![Vanessa's GitHub stats](https://github-vanessap81-stats.vercel.app/api?username=vanessap81&show_icons=true&theme=tokyonight)
 
 
 
-<!---
+
 (https://github-stats.vercel.app/api?username=vanessap81&show_icons=true&theme=radical)
 
 
