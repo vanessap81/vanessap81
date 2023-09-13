@@ -7,9 +7,7 @@
 
 <h2> GitHub Stats </h2>
 
-[![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessap81)](https://github.com/vanessap81/github-readme-stats)
-
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessap81&show_icons=true&theme=tokyonight)
+![Vanessa's GitHub stats](https://github-vanessap81-stats.vercel.app/api?username=vanessap81&show_icons=true&theme=tokyonight)
 
 
 
