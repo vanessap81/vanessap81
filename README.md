@@ -2,7 +2,7 @@
 
 - 👀 I’m linguist and front-end developer from Brazil.
 - ✏️ Laboratoria.la student. 
-- 🌱 I’m currently learning NODE and REACT JS.  
+- 🌱 I’m currently learning ANGULAR.  
 - 📫 How to reach me: vanessaponte@gmail.com
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
